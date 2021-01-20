@@ -9,5 +9,5 @@ Server then transfers it using mongoose to MongodbAtlas Hosted on AWS!
 
 for E.G.
 
-arcane-retreat-78015.herokuapp.com/<custom>
-  where <custom> is replaced by custom name decided by user.
+arcane-retreat-78015.herokuapp.com/(custom)
+  where (custom) is replaced by custom name decided by user.
